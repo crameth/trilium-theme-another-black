@@ -1,2 +1,4 @@
 # trilium-theme-another-black
-Another black theme for Trilium, updated for the GUI overhaul.
+
+See: https://github.com/zadam/trilium/issues/2273
+
